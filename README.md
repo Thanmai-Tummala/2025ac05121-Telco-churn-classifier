@@ -34,7 +34,8 @@ explored without touching code.
 
 ## c. GitHub Repository Link
 
-`<PASTE YOUR GITHUB REPO URL HERE AFTER YOU PUSH>`
+https://github.com/Thanmai-Tummala/2025ac05121-Telco-churn-classifier.git
+
 
 ## d. Models Used
 
@@ -89,11 +90,11 @@ project-folder/
 
 ## How to Run Locally
 
-```bash
+
 pip install -r requirements.txt
 python model/train_models.py   # optional — .joblib files are already included
 streamlit run app.py
-```
+
 
 ## Streamlit App Features
 
@@ -105,5 +106,5 @@ streamlit run app.py
 
 ## Live Links
 
-- **GitHub Repository:** `<PASTE LINK>`
+- **GitHub Repository:** https://github.com/Thanmai-Tummala/2025ac05121-Telco-churn-classifier.git
 - **Live Streamlit App:** `<PASTE LINK>`
